@@ -1,4 +1,4 @@
-# Debasmita Das - Academic Website
+## Debasmita Das - Academic Website
 
 Welcome to my Academic Website!
 
