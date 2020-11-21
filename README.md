@@ -2,7 +2,7 @@
 
 This is a repository of my [Academic Website](https://debasmita-das-econ.github.io).
 
-My [google scholar](https://scholar.google.com/citations?user=wj_yfJMAAAAJ&hl=en&oi=sra) -  my [linkedin profile](https://www.linkedin.com/in/dasdebasmita) 
+Link to my other professional profiles: My [google scholar](https://scholar.google.com/citations?user=wj_yfJMAAAAJ&hl=en&oi=sra) -  my [linkedin profile](https://www.linkedin.com/in/dasdebasmita) 
 
 Copyright 2020 Debasmita Das.
 
