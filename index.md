@@ -34,7 +34,7 @@ West Lafayette, IN 47907 <br>
 <!-- * **Office Location:** KRAN 332 -->
 <!-- Below are links to my other professional web pages:<br> -->
 
-<a href ="https://www.linkedin.com/in/dasdebasmita"><i class="fa fa-linkedin fa-2x"> </i></a>
+<a href ="https://www.linkedin.com/in/dasdebasmita"><i class="fa fa-linkedin-square fa-2x"> </i></a>
 &nbsp;
 <a href ="https://github.com/debasmita-das-econ"><i class="fa fa-github fa-2x"> </i></a>
 &nbsp;
@@ -51,7 +51,7 @@ West Lafayette, IN 47907 <br>
     <td><a href ="https://scholar.google.com/citations?user=wj_yfJMAAAAJ&hl=en&oi=sra">Google Scholar</a></td>
   </tr>
   <tr>
-    <td width="15%"><i class="fa fa-linkedin fa-lg"> </i></td>
+    <td width="15%"><i class="fa fa-linkedin-square fa-lg"> </i></td>
     <td><a href ="https://www.linkedin.com/in/dasdebasmita">LinkedIn</a></td>
   </tr>
   <tr>
