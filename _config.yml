@@ -1,5 +1,5 @@
 title: Debasmita Das
-url: "https://debasmita-econ.github.io/"
+url: "https://debasmita-das-econ.github.io/"
 baseurl: ""
 
 markdown: kramdown
@@ -13,7 +13,7 @@ markdown_extensions:
 #tracking_id: 
 
 footer: yes
-footer_url: "https://github.com/debasmita-econ"
+footer_url: "https://github.com/debasmita-das-econ"
 footer_text: "Debasmita Das"
 
 sass:
