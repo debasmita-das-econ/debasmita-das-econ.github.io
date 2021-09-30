@@ -23,7 +23,7 @@ Below is a list of courses I have taught at [Purdue University](https://www.purd
 * **International Trade** (ECON 370) <br>
 Summer 2018 <br>
 Award for Distinguished Teaching <br>
-[Syllabus](http://debasmita-das-econ.github.io/resources/Syllabus_370_Summer_2018.pdf) <i class="fa fa-file"> </i> <br>
+[Syllabus](http://debasmita-das-econ.github.io/resources/Syllabus_370_Summer_2018.pdf) <i class="fa fa-file-o"> </i> <br>
 Course materials are available [here](http://github.com/debasmita-das-econ/econ-370-summer-2018).<br>
 <!-- Syllabus -->
 
