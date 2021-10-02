@@ -21,7 +21,7 @@ Job Market Paper (Draft coming soon!) <br>
 </details>
 
 
-**SNAP Work Requirement and Food Insecurity**
+**SNAP Work Requirement and Food Insecurity** [PDF](http://debasmita-das-econ.github.io/resources/Das_2021_SNAP_wr.pdf) 
 
 <details>
   <summary>Abstract</summary>
