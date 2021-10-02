@@ -21,7 +21,7 @@ Job Market Paper (Draft coming soon!) <br>
 </details>
 
 
-**SNAP Work Requirement and Food Insecurity** [PDF](http://debasmita-das-econ.github.io/resources/Das_2021_SNAP_wr.pdf) 
+**SNAP Work Requirement and Food Insecurity**  
 
 <details>
   <summary>Abstract</summary>
@@ -30,6 +30,7 @@ In this paper, I examine the effect of Supplemental Nutrition Assistance Program
     </p>
 </details>
 
+[PDF](http://debasmita-das-econ.github.io/resources/Das_2021_SNAP_wr.pdf)
 <br>
 
 <!-- ### Work in Progress -->
