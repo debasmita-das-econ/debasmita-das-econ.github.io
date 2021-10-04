@@ -62,6 +62,8 @@ In India, rising demand for gold had an adverse impact on the country's current 
   </p>
 </details>
 
+Commentary: [The Hindu Business Line](https://www.thehindubusinessline.com/opinion/no-golden-rule/article8586212.ece)
+
 <!-- Inclusive Growth Index Paper -->
 **[Inclusive Growth: Economics as if People Mattered](https://doi.org/10.1177/0972150917713840)** <br>
 ***Global Business Review***, 2018, 19(3), pp. 756-770. <br>
