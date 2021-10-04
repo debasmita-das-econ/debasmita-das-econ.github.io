@@ -30,7 +30,7 @@ In this paper, I examine the effect of Supplemental Nutrition Assistance Program
     </p>
 </details>
 
-[PDF](http://debasmita-das-econ.github.io/resources/Das_2021_SNAP_wr.pdf)
+[PDF](http://debasmita-das-econ.github.io/resources/Das_snap_wr_draft_2021.pdf)
 <br>
 
 <!-- ### Work in Progress -->
@@ -51,7 +51,7 @@ Retirement decisions of married couples are often jointly planned. In this paper
 <span style="color: #8F2137; font-size:20px; font-variant: small-caps;">**Publications (Pre-PhD)**</span>
 
 <!-- Gold import elasticity paper -->
-**[Estimating Elasticity of Import Demand for Gold in India](https://www.sciencedirect.com/science/article/abs/pii/S0301420716302410?via%3Dihub)**    <br>
+**Estimating Elasticity of Import Demand for Gold in India**    <br>
 ***Resources Policy***, 2017, 51, pp. 183-193.  <br>
 with [Paramita Mukherjee](https://scholar.google.com/citations?user=yRGxyWkAAAAJ&hl=en) and [Vivekananda Mukherjee](https://scholar.google.com/citations?user=_TjZF80AAAAJ&hl=en) 
 	
@@ -61,11 +61,11 @@ with [Paramita Mukherjee](https://scholar.google.com/citations?user=yRGxyWkAAAAJ
 In India, rising demand for gold had an adverse impact on the country's current account balance, and the attempts to curb gold import demand often failed in the recent past. In this paper, we empirically investigate the reasons for such failures by analyzing the possibility of habit formation and inventory adjustment effects in determining the dynamics of gold import demand in India. Using three dynamic demand models based on distributed lag specifications, we estimate the price and income elasticities of different forms of physical gold imports, viz. non-monetary powder form of gold, other non-monetary semi-manufactured forms of gold, and other non-monetary unwrought forms of gold. Based on monthly gold import data, we find that Indian consumers care about variation in gold prices, silver prices, gold import expenditures, and long-term bond yield in the short-run, but they exhibit demand persistence in the long run. Different sensitivity of different forms of gold import suggests that an aggregate demand analysis fails to capture the non-symmetric mechanisms operating on different components of gold import demand in India. 
   </p>
 </details>
-
-Commentary: [The Hindu Business Line](https://www.thehindubusinessline.com/opinion/no-golden-rule/article8586212.ece)
+[Published Version](https://www.sciencedirect.com/science/article/abs/pii/S0301420716302410?via%3Dihub) <br>
+Commentary: [The Hindu Business Line](https://www.thehindubusinessline.com/opinion/no-golden-rule/article8586212.ece) <br>
 
 <!-- Inclusive Growth Index Paper -->
-**[Inclusive Growth: Economics as if People Mattered](https://doi.org/10.1177/0972150917713840)** <br>
+**Inclusive Growth: Economics as if People Mattered** <br>
 ***Global Business Review***, 2018, 19(3), pp. 756-770. <br>
 with [Aruni Mitra](https://arunimitra.com/)
 
@@ -75,6 +75,7 @@ with [Aruni Mitra](https://arunimitra.com/)
 	In this study, we provide a holistic working definition of inclusive growth, unlike previous definitions that come under the shadow of pro-poor growth or inequality reduction. We measure inclusive growth through a newly proposed index, named the Inclusive Growth Index (IGI), based on 24 developmental indicator variables (categorized into expansion, sustainability, equity in access, and efficiency of economic activities and institutions) as its components. We have employed two kinds of weighting schemes in constructing the index: an ad hoc weighting scheme and a weighting scheme based on principal component analysis (PCA), performed differently on variables under each dimension. We calculated the IGI values for 16 Asian countries and ranked the countries according to their respective inclusive growth achievements. By comparing the IGI values with the Human Development Index (HDI) values, our findings uncover how the HDI values can be misleading in measuring the development performance of a country and how the IGI can identify income-based as well as non-income based aspects of well-being.
   </p>
 </details>
+[Published Version](https://doi.org/10.1177/0972150917713840)
 
 
 
