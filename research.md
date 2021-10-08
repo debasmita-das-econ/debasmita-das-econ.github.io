@@ -9,8 +9,10 @@ You can also find my articles on my Google Scholar profile.
 ### Working Paper -->
 <span style="color: #8F2137; font-size:20px; font-variant: small-caps;">**Working Papers**</span>
 
-* **Child-rearing, Social Security and Married Women's Labor Supply over the Life Cycle** <br>
+**Child-rearing, Social Security and Married Women's Labor Supply over the Life Cycle** <br>
+
 Job Market Paper (Draft coming soon!) <br>
+
 <details>
   <summary>Abstract</summary>
   <p style="color:rgb(44, 62, 80)" align="justify"> 
@@ -19,7 +21,7 @@ Job Market Paper (Draft coming soon!) <br>
 </details>
 
 
-* **SNAP Work Requirement and Food Insecurity**  
+**SNAP Work Requirement and Food Insecurity**  
 
 <details>
   <summary>Abstract</summary>
@@ -35,7 +37,7 @@ In this paper, I examine the effect of Supplemental Nutrition Assistance Program
 <!-- ### Work in Progress -->
 <span style="color: #8F2137; font-size:20px; font-variant: small-caps;">**Work in Progress**</span>
 
-* **Cohort-specific Pension Reform and Married Couple's Labor Supply**
+**Cohort-specific Pension Reform and Married Couple's Labor Supply**
 
 <details>
   <summary>Abstract</summary>
@@ -50,7 +52,7 @@ Retirement decisions of married couples are often jointly planned. In this paper
 <span style="color: #8F2137; font-size:20px; font-variant: small-caps;">**Publications (Pre-PhD)**</span>
 
 <!-- Gold import elasticity paper -->
-* **Estimating Elasticity of Import Demand for Gold in India**    <br>
+**Estimating Elasticity of Import Demand for Gold in India**    <br>
 ***Resources Policy***, 2017, 51, pp. 183-193.  <br>
 with [Paramita Mukherjee](https://scholar.google.com/citations?user=yRGxyWkAAAAJ&hl=en) and [Vivekananda Mukherjee](https://scholar.google.com/citations?user=_TjZF80AAAAJ&hl=en) 
 	
@@ -64,7 +66,7 @@ In India, rising demand for gold had an adverse impact on the country's current 
 Commentary: [The Hindu Business Line](https://www.thehindubusinessline.com/opinion/no-golden-rule/article8586212.ece) <br>
 
 <!-- Inclusive Growth Index Paper -->
-* **Inclusive Growth: Economics as if People Mattered** <br>
+**Inclusive Growth: Economics as if People Mattered** <br>
 ***Global Business Review***, 2018, 19(3), pp. 756-770. <br>
 with [Aruni Mitra](https://arunimitra.com/) 
 
