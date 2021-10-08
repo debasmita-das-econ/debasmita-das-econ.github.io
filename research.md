@@ -10,9 +10,7 @@ You can also find my articles on my Google Scholar profile.
 <span style="color: #8F2137; font-size:20px; font-variant: small-caps;">**Working Papers**</span>
 
 * **Child-rearing, Social Security and Married Women's Labor Supply over the Life Cycle** <br>
-
 Job Market Paper (Draft coming soon!) <br>
-
 <details>
   <summary>Abstract</summary>
   <p style="color:rgb(44, 62, 80)" align="justify"> 
@@ -68,7 +66,7 @@ Commentary: [The Hindu Business Line](https://www.thehindubusinessline.com/opini
 <!-- Inclusive Growth Index Paper -->
 * **Inclusive Growth: Economics as if People Mattered** <br>
 ***Global Business Review***, 2018, 19(3), pp. 756-770. <br>
-with [Aruni Mitra](https://arunimitra.com/)
+with [Aruni Mitra](https://arunimitra.com/) 
 
 <details>
   <summary>Abstract</summary>
