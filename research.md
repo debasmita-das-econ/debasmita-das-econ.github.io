@@ -22,6 +22,8 @@ Draft coming soon!
 
 *Received Bilsland Dissertation Fellowship*
 
+<br>
+
 **SNAP Work Requirement and Food Insecurity**  
 
 <details>
