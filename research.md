@@ -20,8 +20,6 @@ You can also find my articles on my Google Scholar profile.
 
 Draft coming soon!
 
-<br>
-
 *Received Bilsland Dissertation Fellowship*
 
 **SNAP Work Requirement and Food Insecurity**  
