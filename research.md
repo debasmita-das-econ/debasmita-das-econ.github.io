@@ -20,6 +20,7 @@ Job Market Paper (Draft coming soon!) <br>
   </p>
 </details>
 
+*Awarded Bilsland Dissertation Fellowship*
 
 **SNAP Work Requirement and Food Insecurity**  
 
