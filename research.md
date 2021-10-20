@@ -17,9 +17,9 @@ You can also find my articles on my Google Scholar profile.
   This paper studies how career interruptions during child-rearing years affect the labor market trajectory, lifetime earnings, and Social Security benefits of married women in the United States. To this end, I develop a dynamic structural life-cycle model of female labor supply, savings, and Social Security benefit claiming and estimate the model using the Method of Simulated Moments for the 1943-1954 cohort. I use the estimated model to quantify the effect of three revenue-neutral policy reforms: (i) introducing a Social Security caregiver credit that covers the lost earnings during the first 5 child-rearing years through changes in retirement benefits, (ii) combining the introduction of caregiver credit with the elimination of spousal and survivors benefits, and (iii) removing spousal and survivors benefits. I find that the gender gap in average career earnings at the Social Security Early Retirement Age reduces significantly under all three counterfactual scenarios, with the largest effect of 12.77% decline under the second reform. The findings suggest that instituting caregiver credit for child-rearing in the absence of the marriage-based Social Security benefits would offset a substantial portion of the motherhood penalty in lifetime labor earnings of married women and increase their retirement benefit adequacy.
   </p>
 </details>
-*Received Bilsland Dissertation Fellowship*
 
-<br>
+*Received Bilsland Dissertation Fellowship* <br>
+
 
 **SNAP Work Requirement and Food Insecurity**  
 
