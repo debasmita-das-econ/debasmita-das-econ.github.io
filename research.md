@@ -55,6 +55,19 @@ Retirement decisions of married couples are often jointly planned. In this paper
 <!-- ### Publication (Pre-PhD) -->
 <span style="color: #8F2137; font-size:20px; font-variant: small-caps;">**Publications (Pre-PhD)**</span>
 
+<!-- Inclusive Growth Index Paper -->
+**Inclusive Growth: Economics as if People Mattered** <br>
+***Global Business Review***, 2018, 19(3), pp. 756-770. <br>
+with [Aruni Mitra](https://arunimitra.com/) 
+
+<details>
+  <summary>Abstract</summary>
+  <p style="color:rgb(44, 62, 80)" align="justify">
+	In this study, we provide a holistic working definition of inclusive growth, unlike previous definitions that come under the shadow of pro-poor growth or inequality reduction. We measure inclusive growth through a newly proposed index, named the Inclusive Growth Index (IGI), based on 24 developmental indicator variables (categorized into expansion, sustainability, equity in access, and efficiency of economic activities and institutions) as its components. We have employed two kinds of weighting schemes in constructing the index: an ad hoc weighting scheme and a weighting scheme based on principal component analysis (PCA), performed differently on variables under each dimension. We calculated the IGI values for 16 Asian countries and ranked the countries according to their respective inclusive growth achievements. By comparing the IGI values with the Human Development Index (HDI) values, our findings uncover how the HDI values can be misleading in measuring the development performance of a country and how the IGI can identify income-based as well as non-income based aspects of well-being.
+  </p>
+</details>
+[Published Version](https://doi.org/10.1177/0972150917713840) <br>
+
 <!-- Gold import elasticity paper -->
 **Estimating Elasticity of Import Demand for Gold in India**    <br>
 ***Resources Policy***, 2017, 51, pp. 183-193.  <br>
@@ -69,18 +82,7 @@ In India, rising demand for gold had an adverse impact on the country's current 
 [Published Version](https://www.sciencedirect.com/science/article/abs/pii/S0301420716302410?via%3Dihub) <br>
 Commentary: [The Hindu Business Line](https://www.thehindubusinessline.com/opinion/no-golden-rule/article8586212.ece) <br>
 
-<!-- Inclusive Growth Index Paper -->
-**Inclusive Growth: Economics as if People Mattered** <br>
-***Global Business Review***, 2018, 19(3), pp. 756-770. <br>
-with [Aruni Mitra](https://arunimitra.com/) 
 
-<details>
-  <summary>Abstract</summary>
-  <p style="color:rgb(44, 62, 80)" align="justify">
-	In this study, we provide a holistic working definition of inclusive growth, unlike previous definitions that come under the shadow of pro-poor growth or inequality reduction. We measure inclusive growth through a newly proposed index, named the Inclusive Growth Index (IGI), based on 24 developmental indicator variables (categorized into expansion, sustainability, equity in access, and efficiency of economic activities and institutions) as its components. We have employed two kinds of weighting schemes in constructing the index: an ad hoc weighting scheme and a weighting scheme based on principal component analysis (PCA), performed differently on variables under each dimension. We calculated the IGI values for 16 Asian countries and ranked the countries according to their respective inclusive growth achievements. By comparing the IGI values with the Human Development Index (HDI) values, our findings uncover how the HDI values can be misleading in measuring the development performance of a country and how the IGI can identify income-based as well as non-income based aspects of well-being.
-  </p>
-</details>
-[Published Version](https://doi.org/10.1177/0972150917713840)
 
 
 
