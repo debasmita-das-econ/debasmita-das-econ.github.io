@@ -10,7 +10,7 @@ You can also find my articles on my Google Scholar profile.
 <span style="color: #8F2137; font-size:20px; font-variant: small-caps;">**Working Papers**</span>
 
 **Child-rearing, Social Security and Married Women's Labor Supply over the Life Cycle** <br>
-Job Market Paper (Draft coming soon!)
+Job Market Paper [PDF](http://debasmita-das-econ.github.io/resources/JMP_draft_Debasmita_Das_2021.pdf) (Updated: 10/20/2021)
 <details>
   <summary>Abstract</summary>
   <p style="color:rgb(44, 62, 80)" align="justify"> 
