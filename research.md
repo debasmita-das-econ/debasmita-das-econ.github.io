@@ -7,10 +7,9 @@ layout: default
 <!--
 You can also find my articles on my Google Scholar profile. 
 ### Working Paper -->
-<span style="color: #8F2137; font-size:20px; font-variant: small-caps;">**Working Papers**</span>
+<span style="color: #8F2137; font-size:20px; font-variant: small-caps;">**Job Market Paper**</span>
 
 **Child-rearing, Social Security and Married Women's Labor Supply over the Life Cycle** <br>
-*Job Market Paper* <br>
 [PDF](http://debasmita-das-econ.github.io/resources/JMP_draft_Debasmita_Das_2021.pdf) (Updated: 10/20/2021)
 <details>
   <summary>Abstract</summary>
@@ -21,6 +20,7 @@ You can also find my articles on my Google Scholar profile.
 
 *Received Bilsland Dissertation Fellowship* <br>
 
+<span style="color: #8F2137; font-size:20px; font-variant: small-caps;">**Working Paper**</span>
 
 **SNAP Work Requirement and Food Insecurity**  
 
