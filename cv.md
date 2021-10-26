@@ -3,7 +3,7 @@ layout: default
 ---
 
 <!-- Curriculum Vitae <i class="fa fa-download"> </i> -->
-[Curriculum Vitae](http://debasmita-das-econ.github.io/resources/Debasmita_Das_CV_Sep_2021.pdf) <i class="fa fa-file-pdf-o"> </i> <br>
+[Curriculum Vitae](http://debasmita-das-econ.github.io/resources/Debasmita_Das_CV_Oct_2021.pdf) <i class="fa fa-file-pdf-o"> </i> <br>
 
 [Resume](http://debasmita-das-econ.github.io/resources/Resume_Debasmita_Das_Oct_2021.pdf)  <i class="fa fa-file-pdf-o"> </i>
 
