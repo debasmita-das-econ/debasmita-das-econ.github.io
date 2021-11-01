@@ -10,7 +10,7 @@ layout: default
 I am a PhD candidate in the [Department of Economics](https://krannert.purdue.edu/academics/economics/) at [Purdue University](https://www.purdue.edu/).
 <!-- , where I'm advised by Victoria Prowse, Trevor Gallen and Kevin Mumford -->
 
-**Research Field:** Labor Economics, Public Economics, Applied Microeconomics
+**Research Field:** Labor Economics, Public Economics, Household Finance
 <!-- My main areas of research are in Labor Economics, Public Economics and Applied Microeconomics. -->
 <!-- Add JMP -->
 
