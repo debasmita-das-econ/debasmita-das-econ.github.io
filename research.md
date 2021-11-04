@@ -18,7 +18,7 @@ You can also find my articles on my Google Scholar profile.
   </p>
 </details>
 
-[PDF](http://debasmita-das-econ.github.io/resources/JMP_draft_Debasmita_Das_2021.pdf) (Updated: 10/25/2021) <br>
+[PDF](http://debasmita-das-econ.github.io/resources/JMP_draft_Debasmita_Das_2021.pdf) (Updated: 11/04/2021) <br>
 
 *Received Bilsland Dissertation Fellowship* <br>
 <br>
