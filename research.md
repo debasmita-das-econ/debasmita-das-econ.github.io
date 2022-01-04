@@ -71,7 +71,7 @@ with [Aruni Mitra](https://arunimitra.com/)
 <!-- Gold import elasticity paper -->
 **Estimating Elasticity of Import Demand for Gold in India**    <br>
 ***Resources Policy***, 2017, 51, pp. 183-193.  <br>
-with [Paramita Mukherjee](https://scholar.google.com/citations?user=yRGxyWkAAAAJ&hl=en) and [Vivekananda Mukherjee](https://scholar.google.com/citations?user=_TjZF80AAAAJ&hl=en) 
+with [Paramita Mukherjee](https://scholar.google.com/citations?user=yRGxyWkAAAAJ&hl=en) and [Vivekananda Mukherjee](https://scholar.google.com/citations?hl=en&user=DOZ4PxEAAAAJ&view_op=list_works&alert_preview_top_rm=2) 
 	
 <details>
   <summary>Abstract</summary>
