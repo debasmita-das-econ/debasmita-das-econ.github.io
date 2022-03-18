@@ -18,7 +18,7 @@ My research combines data, theory, econometrics, and computer programming to stu
 
 <!-- Methodologically, I conduct economic analyses using tools from applied econometrics, numerical computational methods, quasi-experimental and causal inference methods. -->
 
-I am on the job market in the 2021-2022 season. Please feel free to reach out if you think I would be a good fit for your academic department or industry research group.
+<!-- I am on the job market in the 2021-2022 season. Please feel free to reach out if you think I would be a good fit for your academic department or industry research group. -->
 
 <!-- I will be interviewing remotely at any interested party's convenience. -->
 
