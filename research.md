@@ -34,7 +34,7 @@ In this paper, I examine the effect of Supplemental Nutrition Assistance Program
     </p>
 </details>
 
-[PDF](http://debasmita-das-econ.github.io/resources/Das_snap_wr_draft_2021.pdf)
+[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3943351)
 
 <br>
 
