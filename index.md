@@ -6,6 +6,7 @@ layout: default
 
 <span style="color: #8F2137"> **Welcome to my website!**</span>
 <br>
+
 I am a Post-doctoral Research Fellow affiliated with the [Financial Innovation Services Lab](https://fintech.gatech.edu) in the [Scheller College of Business](https://www.scheller.gatech.edu/) at [Georgia Tech](https://www.gatech.edu/).
 <!--  My name is Debasmita Das. -->
 <!-- I am a PhD candidate in the [Department of Economics](https://krannert.purdue.edu/academics/economics/) at [Purdue University](https://www.purdue.edu/). -->
