@@ -5,16 +5,17 @@ layout: default
 <center><img src="headshot.jpg" style="width:250px;height:250px;"></center>
 
 <span style="color: #8F2137"> **Welcome to my website!**</span>
-
+I am a Post-doctoral Research Fellow in the [Financial Innovation Services Lab](https://fintech.gatech.edu) and the [Scheller College of Business](https://www.scheller.gatech.edu/) at [Georgia Tech](https://www.gatech.edu/).
 <!--  My name is Debasmita Das. -->
-I am a PhD candidate in the [Department of Economics](https://krannert.purdue.edu/academics/economics/) at [Purdue University](https://www.purdue.edu/).
+<!-- I am a PhD candidate in the [Department of Economics](https://krannert.purdue.edu/academics/economics/) at [Purdue University](https://www.purdue.edu/). -->
 <!-- , where I'm advised by Victoria Prowse, Trevor Gallen and Kevin Mumford -->
 
-**Research Field:** Labor Economics, Public Economics, Household Finance
+**Research Field:** Household Finance, Public Finance, Labor Economics
+<!-- Labor Economics, Public Economics, Household Finance -->
 <!-- My main areas of research are in Labor Economics, Public Economics and Applied Microeconomics. -->
 <!-- Add JMP -->
 
-My research combines data, theory, econometrics, and computer programming to study mechanisms behind household decision-making. I am interested in understanding how social insurance policies shape important life outcomes. I conduct quantitative research analyses using tools from applied econometrics, computational methods, quasi-experimental and causal inference methods.
+<!--  My research combines data, theory, econometrics, and computer programming to study mechanisms behind household decision-making. I am interested in understanding how social insurance policies shape important life outcomes. I conduct quantitative research analyses using tools from applied econometrics, computational methods, quasi-experimental and causal inference methods. -->
 
 <!-- Methodologically, I conduct economic analyses using tools from applied econometrics, numerical computational methods, quasi-experimental and causal inference methods. -->
 
@@ -23,14 +24,21 @@ My research combines data, theory, econometrics, and computer programming to stu
 <!-- I will be interviewing remotely at any interested party's convenience. -->
 
 <span style="color: #8F2137; "> **Contact Information:**</span> <br>
+CODA at Tech Square <br>
+Georgia Institute of Technology <br>
+756 W Peachtree St NW <br>
+Atlanta, GA 30308 <br>
+<!--
 Department of Economics <br>
 Krannert School of Management <br>
 Purdue University <br>
 403 W. State Street <br>
 West Lafayette, IN 47907 <br>
+-->
 
 <!-- **Email:** <das57@purdue.edu> <br> -->
-<i class="fa fa-envelope-o"> </i> **Email:** <das57@purdue.edu> <br>
+<i class="fa fa-envelope-o"> </i> **Email:** <debasmita.das@qcf.gatech.edu> <br>
+<!-- <i class="fa fa-envelope-o"> </i> **Email:** <das57@purdue.edu> <br> -->
 <!-- * **Office Location:** KRAN 332 -->
 <!-- Below are links to my other professional web pages:<br> -->
 
