@@ -32,7 +32,7 @@ of married women and increase their retirement benefit adequacy
   </p>
 </details>
 
-[PDF](http://debasmita-das-econ.github.io/resources/Caregiver_Credit_Das_2022.pdf) (Updated: 09/12/2022) <br>
+[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4218264) (Updated: 09/12/2022) <br>
 
 *Received Bilsland Dissertation Fellowship* <br>
 <br>
