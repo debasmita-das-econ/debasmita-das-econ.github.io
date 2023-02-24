@@ -9,7 +9,7 @@ layout: default
 
 I am a Post-doctoral Research Fellow affiliated with the [Financial Services Innovation Lab](https://fintech.gatech.edu) in the [Scheller College of Business](https://www.scheller.gatech.edu/) at [Georgia Tech](https://www.gatech.edu/).
 
-Before joining Georgia Tech, I completed Ph.D. in Economics at [Purdue University](https://business.purdue.edu/phd/programs/economics/home.php).
+Before joining Georgia Tech, I earned a Ph.D. in Economics from [Purdue University](https://business.purdue.edu/phd/programs/economics/home.php).
 <!--  My name is Debasmita Das. -->
 <!-- I am a PhD candidate in the [Department of Economics](https://krannert.purdue.edu/academics/economics/) at [Purdue University](https://www.purdue.edu/). -->
 <!-- , where I'm advised by Victoria Prowse, Trevor Gallen and Kevin Mumford -->
